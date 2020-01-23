@@ -1,4 +1,4 @@
-package suicide.agency;
+package muffin.agency;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

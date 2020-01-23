@@ -1,4 +1,4 @@
-package suicide.agency;
+package muffin.agency;
 
 import com.google.common.base.Charsets;
 import com.google.common.io.Resources;
@@ -15,7 +15,6 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import suicide.agency.net.VerifyMSG;
 
 import java.util.HashMap;
 import java.util.List;

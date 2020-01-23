@@ -1,4 +1,4 @@
-package suicide.agency;
+package muffin.agency;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import net.minecraft.util.ResourceLocation;
