@@ -1,0 +1,10 @@
+.gitold
+.idea
+.gradle
+build
+out
+run
+runsrv
+src/main/resources/miichannel.ogg
+src/main/resources/wiishoptheme.ogg
+src/main/resources/wiisportsresort.ogg
